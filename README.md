@@ -22,7 +22,7 @@ Passionate about transforming raw data into meaningful insights through data ana
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills 
 
 ### Programming & Databases
 - Python
@@ -30,22 +30,59 @@ Passionate about transforming raw data into meaningful insights through data ana
 - Pandas
 - NumPy
 
-### Data Visualization
+### Data Analytics
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Wrangling
+- Statistical Analysis
+- Business Intelligence
+
+### Data Visualization & BI
 - Matplotlib
 - Seaborn
 - Plotly
+- Tableau
+- Power BI
 
 ### Machine Learning
 - Scikit-Learn
+- Logistic Regression
+- Classification Models
+- Feature Engineering
+
+### Natural Language Processing
 - NLP
 - TF-IDF
-- Logistic Regression
+- Text Preprocessing
+- Sentiment Analysis
 
-### Tools
+### SQL & Database Skills
+- MySQL Workbench
+- Joins
+- Subqueries
+- Aggregate Functions
+- Window Functions
+- Database Design
+
+### Spreadsheet Tools
+- Microsoft Excel
+- Pivot Tables
+- Data Validation
+- Lookup Functions (VLOOKUP/XLOOKUP)
+
+### Tools & Platforms
+- Git
+- GitHub
 - Jupyter Notebook
 - VS Code
-- Git & GitHub
 - MySQL Workbench
+- Tableau
+- Power BI
+
+### Currently Learning
+- Advanced SQL
+- Data Storytelling
+- Dashboard Design
 
 ---
 
@@ -80,18 +117,6 @@ SQL project using MySQL Workbench for database design, data import, revenue anal
 
 🔗 Repository:
 https://github.com/Unnati22p/Retail-Sales-SQL-Analysis
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Unnati22p&show_icons=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unnati22p&layout=compact" />
-</p>
 
 ---
 
