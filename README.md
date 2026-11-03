@@ -3,29 +3,28 @@
 <h3 align="center">Data Analystics | SQL | Python | Artificial Intelligence & ML</h3>
 
 <p align="center">
-Passionate about transforming raw data into meaningful insights through data analysis, visualization, and machine learning.
+Exploring the intersection of Data Science, Analytics, Artificial Intelligence, and Machine Learning to build intelligent, data-driven solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
+Final-year Computer Science Engineering student specializing in Data Science, with a strong interest in Data Analytics, Artificial Intelligence, and Machine Learning. Experienced in developing predictive models, performing large-scale data analysis, building interactive dashboards, and creating AI-powered applications.
 
-Final-year Computer Science Engineering student specializing in Data Science, passionate about Data Analytics, Artificial Intelligence, and Machine Learning. Experienced in building data-driven solutions, predictive models, interactive dashboards, and AI-powered applications using Python, SQL, Power BI, PySpark, and modern ML frameworks.
-
-Interested in transforming complex data into meaningful insights and developing intelligent solutions to real-world problems.
+Passionate about solving real-world problems through data-driven insights, intelligent systems, and emerging technologies.
 
 ---
 
 ## 🛠️ Skills 
 
-* Programming: Python, SQL, R, C++, JavaScript
-* Data Science & Analytics: Pandas, NumPy, Statistics, Excel, Data Cleaning, EDA
+* Programming: Python, SQL, C++
+* Data Science & Analytics: Pandas, NumPy, Statistics, Excel, Data Cleaning, EDA, Feature Engineering, Statistical Analysis
 * Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
-* Machine Learning: Scikit-learn, TensorFlow, PyTorch
-* Artificial Intelligence: Deep Learning, NLP, CNN, Transformers, Generative AI
-* Big Data: PySpark
+* Machine Learning: Scikit-learn, TensorFlow, PyTorch, XGBoost, Model Evaluation
+* Artificial Intelligence: Deep Learning, NLP, CNN, Transformers, Generative AI, Explainable AI (XAI), Transformers
+* Big Data: PySpark, Apache Spark
 * Databases: MySQL, MongoDB
-* Tools: Git, GitHub, Jupyter Notebook, VS Code
+* Tools: Git, GitHub, Jupyter Notebook, VS Code, Google Colab, Streamlit
 
 ---
 
