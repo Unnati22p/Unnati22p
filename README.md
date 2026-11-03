@@ -21,8 +21,8 @@ Passionate about solving real-world problems through data-driven insights, intel
 * Data Science & Analytics: Pandas, NumPy, Statistics, Excel, Data Cleaning, EDA, Feature Engineering, Statistical Analysis
 * Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
 * Machine Learning: Scikit-learn, TensorFlow, PyTorch, XGBoost, Model Evaluation
-* Artificial Intelligence: Deep Learning, NLP, CNN, Transformers, Generative AI, Explainable AI (XAI), Transformers
-* Big Data: PySpark, Apache Spark
+* Artificial Intelligence: Deep Learning, NLP, CNN, Generative AI, Explainable AI (XAI), Transformers
+* Big Data: PySpark
 * Databases: MySQL, MongoDB
 * Tools: Git, GitHub, Jupyter Notebook, VS Code, Google Colab, Streamlit
 
@@ -30,35 +30,39 @@ Passionate about solving real-world problems through data-driven insights, intel
 
 ## 📂 Featured Projects
 
-### ✈️ Flight Delay Intelligence System
-Analyzed airline delay and cancellation trends using Python and interactive dashboards.
-
-🔗 Repository:
-https://github.com/Unnati22p/Flight-Delay-Intelligence-System
+### 🤖 [AI-Powered Business Analytics Platform](https://github.com/Unnati22p/AI-Powered-Business-Analytics-Platform)
+AI-powered analytics application using Python, SQL, Streamlit, and Google Gemini to generate business insights.
 
 ---
 
-### 💬 Airline Customer Sentiment Analysis
-Performed sentiment analysis on airline customer tweets using NLP techniques and Logistic Regression.
-
-🔗 Repository:
-https://github.com/Unnati22p/Airline-Customer-Sentiment-Analysis
+### 🔍 [IEEE-CIS Fraud Detection](https://github.com/Unnati22p/IEEE-CIS-Fraud-Detection)
+Developed an XGBoost-based fraud detection model using imbalanced learning and predictive evaluation.
 
 ---
 
-### 🛒 E-Commerce Business Intelligence Suite
-Business intelligence project analyzing customer behavior, revenue trends, product performance, and customer satisfaction.
-
-🔗 Repository:
-https://github.com/Unnati22p/E-Commerce-Business-Intelligence-Suite
+### 🧠 [Hybrid Fake News Detection](https://github.com/Unnati22p/Hybrid_Fake_News_Streamlit)
+Developing a hybrid explainable deep learning framework integrating text and image features for fake news detection.
 
 ---
 
-### 📊 Retail Sales SQL Analysis
-SQL project using MySQL Workbench for database design, data import, revenue analysis, customer insights, and sales trend exploration.
+### ✈️ [Flight Delay Intelligence System](https://github.com/Unnati22p/Flight-Delay-Intelligence-System)
+Analyzed 5.8M+ airline records using PySpark to identify flight delays, cancellations, and operational trends.
 
-🔗 Repository:
-https://github.com/Unnati22p/Retail-Sales-SQL-Analysis
+---
+
+### 📊 [Supply Chain Logistics Analytics Dashboard](https://github.com/Unnati22p/Supply-Chain-Logistics-Analytics-Dashboard)
+Built an interactive Power BI dashboard to analyze supply chain performance, profitability, sales, and logistics operations.
+
+---
+
+### 🛒 [E-Commerce Business Intelligence Suite](https://github.com/Unnati22p/E-Commerce-Business-Intelligence-Suite)
+Analyzed customer behavior, revenue trends, product performance, and customer satisfaction using Python.
+
+---
+
+### 📈 [Retail Sales SQL Analysis](https://github.com/Unnati22p/Retail-Sales-SQL-Analysis)
+Performed SQL-based analysis covering revenue trends, customer insights, database design, and sales performance.
+
 
 ---
 
