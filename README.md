@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Unnati Patil</h1>
 
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Business Intelligence</h3>
+<h3 align="center">Data Analystics | SQL | Python | Artificial Intelligence & ML</h3>
 
 <p align="center">
 Passionate about transforming raw data into meaningful insights through data analysis, visualization, and machine learning.
@@ -10,79 +10,22 @@ Passionate about transforming raw data into meaningful insights through data ana
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Student
+Final-year Computer Science Engineering student specializing in Data Science, passionate about Data Analytics, Artificial Intelligence, and Machine Learning. Experienced in building data-driven solutions, predictive models, interactive dashboards, and AI-powered applications using Python, SQL, Power BI, PySpark, and modern ML frameworks.
 
-📊 Interested in Data Analytics, Business Intelligence, and Machine Learning
-
-🐍 Skilled in Python, SQL, Data Visualization, and Exploratory Data Analysis
-
-📈 Building projects that solve real-world business problems using data
-
-🌱 Currently learning Power BI and Advanced Analytics
+Interested in transforming complex data into meaningful insights and developing intelligent solutions to real-world problems.
 
 ---
 
 ## 🛠️ Skills 
 
-### Programming & Databases
-- Python
-- SQL (MySQL)
-- Pandas
-- NumPy
-
-### Data Analytics
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Wrangling
-- Statistical Analysis
-- Business Intelligence
-
-### Data Visualization & BI
-- Matplotlib
-- Seaborn
-- Plotly
-- Tableau
-- Power BI
-
-### Machine Learning
-- Scikit-Learn
-- Logistic Regression
-- Classification Models
-- Feature Engineering
-
-### Natural Language Processing
-- NLP
-- TF-IDF
-- Text Preprocessing
-- Sentiment Analysis
-
-### SQL & Database Skills
-- MySQL Workbench
-- Joins
-- Subqueries
-- Aggregate Functions
-- Window Functions
-- Database Design
-
-### Spreadsheet Tools
-- Microsoft Excel
-- Pivot Tables
-- Data Validation
-- Lookup Functions (VLOOKUP/XLOOKUP)
-
-### Tools & Platforms
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- MySQL Workbench
-- Tableau
-- Power BI
-
-### Currently Learning
-- Advanced SQL
-- Data Storytelling
-- Dashboard Design
+* Programming: Python, SQL, R, C++, JavaScript
+* Data Science & Analytics: Pandas, NumPy, Statistics, Excel, Data Cleaning, EDA
+* Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
+* Machine Learning: Scikit-learn, TensorFlow, PyTorch
+* Artificial Intelligence: Deep Learning, NLP, CNN, Transformers, Generative AI
+* Big Data: PySpark
+* Databases: MySQL, MongoDB
+* Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
